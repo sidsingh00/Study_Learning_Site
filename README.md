@@ -1,4 +1,8 @@
-# Study_Learning_Site
+#Study_Learning_Site
+
+![about-img](https://github.com/sidsingh00/Study_Learning_Site/assets/124824485/f288fa76-abc1-4408-9521-d5a39a9c98b0)
+
+
 E-Learning Platform
 Overview
 Our E-Learning platform offers a comprehensive range of courses, including technical, non-technical, and stock market topics. Designed to enhance the learning experience, the platform integrates innovative technologies such as animated videos and Augmented Reality (AR), providing users with immersive and interactive educational content.
