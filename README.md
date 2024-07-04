@@ -1,6 +1,12 @@
 #Study_Learning_Site
 
-![about-img](https://github.com/sidsingh00/Study_Learning_Site/assets/124824485/f288fa76-abc1-4408-9521-d5a39a9c98b0)
+<img width="1439" alt="Screenshot 2024-07-05 at 4 46 22 AM" src="https://github.com/sidsingh00/Study_Learning_Site/assets/124824485/94b90ae1-6729-439d-b67c-ea95a83f0327">
+<img width="1437" alt="Screenshot 2024-07-05 at 4 46 39 AM" src="https://github.com/sidsingh00/Study_Learning_Site/assets/124824485/f07e9446-dcdc-45b1-acef-c9028f53ca51">
+<img width="1437" alt="Screenshot 2024-07-05 at 4 47 18 AM" src="https://github.com/sidsingh00/Study_Learning_Site/assets/124824485/97c1e7b3-4552-494a-a37f-c114b2036e3d">
+<img width="1438" alt="Screenshot 2024-07-05 at 4 47 35 AM" src="https://github.com/sidsingh00/Study_Learning_Site/assets/124824485/4068f76e-a209-4b23-8aa5-98fc837fca38">
+<img width="1437" alt="Screenshot 2024-07-05 at 4 47 54 AM" src="https://github.com/sidsingh00/Study_Learning_Site/assets/124824485/9326f61c-e8f8-49e7-ba69-88b1c2e2673b">
+<img width="1437" alt="Screenshot 2024-07-05 at 4 48 08 AM" src="https://github.com/sidsingh00/Study_Learning_Site/assets/124824485/aea71634-cbce-4991-a0a6-bbed748be466">
+<img width="999" alt="Screenshot 2024-07-05 at 4 48 27 AM" src="https://github.com/sidsingh00/Study_Learning_Site/assets/124824485/f2fdfb39-fdc4-4ca5-a473-a6e0c49a549a">
 
 
 E-Learning Platform
